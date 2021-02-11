@@ -1,6 +1,8 @@
+with BatteryLevel; use BatteryLevel;
+with Ada.Text_IO; use Ada.Text_IO;
 procedure Main is
 
 begin
-   --  Insert code here.
-   null;
+   BatteryResponse(85);
+
 end Main;

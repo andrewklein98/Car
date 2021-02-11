@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\Coding\ADA Projects\GroupProject\Car\bravo.gpr
+20210211121218 54b36f53f8685e44172092cfb8bfc6c1
+[BOUND OBJECT FILES]
+D:\Coding\ADA Projects\GroupProject\Car\obj\batterylevel.o
+D:\Coding\ADA Projects\GroupProject\Car\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\Coding\ADA Projects\GroupProject\Car\obj\
+-LD:\Coding\ADA Projects\GroupProject\Car\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
