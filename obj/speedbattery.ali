@@ -1,0 +1,27 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U speedbattery%b	speedbattery.adb	8eaf0374 NE OO PK
+
+U speedbattery%s	speedbattery.ads	064cc011 EE NE OO PK
+
+D speedbattery.ads	20210211154442 064cc011 speedbattery%s
+D speedbattery.adb	20210211155800 88e3c365 speedbattery%b
+D system.ads		20200228061810 32a08138 system%s
+G a e
+G c Z s b [ratebattery speedbattery 2 13 none]
+X 1 speedbattery.ads
+1K9*SpeedBattery 3l5 3e17 2|1b14 23l5 23t17
+2V13*RateBattery{integer} 2>26 2|5b13 22l8 22t19
+2i26 Speed{integer} 2|5b25 8r10 8r22 10r13 10r26 12r13 12r26 14r13 14r26
+. 16r13 16r27
+X 2 speedbattery.adb
+6i7 BatteryUsage{integer} 9m10 11m10 13m10 15m10 17m10 19m10 21r14
+
